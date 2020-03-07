@@ -144,3 +144,6 @@ For example extra_players='ppo2_cnn:right_players=1,policy=gfootball_impala_cnn,
 Solution: set environment variables for MESA driver, like this:
 
 `MESA_GL_VERSION_OVERRIDE=3.2 MESA_GLSL_VERSION_OVERRIDE=150 python3 -m gfootball.play_game`
+test12
+test34
+test56
